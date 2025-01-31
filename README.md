@@ -13,33 +13,24 @@ const tahmid = {
     { name: "Instalock", url: "https://instalock.app", repo: "https://github.com/tahminator/instalock-web" },
     { name: "Odyssey", url: "https://odysseyapp.cc", repo: "https://github.com/tahminator/hackrpi-project" }
   ],
-  skills: [
-    { category: "Languages", values: ["Java", "TypeScript", "JavaScript", "Python", "C++"] },
-    {
-      category: "Web Development",
-      values: [
-        "HTML", "CSS", "React", "Next.js", "Node.js", "JSON",
-        "Vite", "Vitest", "Jest", "pnpm", "Flask", "Django",
-        "Spring", "Spring Boot", "React Query"
-      ]
-    },
-    {
-      category: "Database",
-      values: [
-        "SQL", "Postgres", "SQLite", "Firebase", "MongoDB",
-        "Prisma", "SQLAlchemy", "PG Admin", "DBeaver"
-      ]
-    },
-    {
-      category: "Tools",
-      values: [
-        "Git", "GitHub", "AWS", "GCP", "Cloudflare Workers",
-        "DigitalOcean", "Docker", "Terraform", "Bash",
-        "PowerShell", "CI/CD", "OpenAI", "Nodemailer",
-        "Leaflet", "Postman", "Insomnia", "VSCode",
-        "Maven", "Gradle"
-      ]
-    }
-  ]
+  skills: {
+    languages: ["Java", "TypeScript", "JavaScript", "Python", "C++"],
+    webDevelopment: [
+      "HTML", "CSS", "React", "Next.js", "Node.js", "JSON",
+      "Vite", "Vitest", "Jest", "pnpm", "Flask", "Django",
+      "Spring", "Spring Boot", "React Query"
+    ],
+    database: [
+      "SQL", "Postgres", "SQLite", "Firebase", "MongoDB",
+      "Prisma", "SQLAlchemy", "PG Admin", "DBeaver"
+    ],
+    tools: [
+      "Git", "GitHub", "AWS", "GCP", "Cloudflare Workers",
+      "DigitalOcean", "Docker", "Terraform", "Bash",
+      "PowerShell", "CI/CD", "OpenAI", "Nodemailer",
+      "Leaflet", "Postman", "Insomnia", "VSCode",
+      "Maven", "Gradle"
+    ]
+  };
 };
 ```
