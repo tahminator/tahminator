@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  Explore my work on my <a href="https://tahmid.io">portfolio</a>.
+  Explore my work on my <a href="https://tahmid.io">portfolio</a>
 </p>
 
 <p align="center">
-  Reach out via <a href="mailto:tahmid@tahmid.io">email</a> or connect on <a href="https://www.linkedin.com/in/thmd">LinkedIn</a>.
+  Always happy to chat over <a href="mailto:tahmid@tahmid.io">email</a> or <a href="https://www.linkedin.com/in/thmd">LinkedIn</a>
 </p>
