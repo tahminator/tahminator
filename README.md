@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tahmid</h1>
+<h1 align="center">Hi, I'm Tahmid! 👋</h1>
 
 <p align="center">
   Software Engineer Intern @ Integral Ad Science<br />
