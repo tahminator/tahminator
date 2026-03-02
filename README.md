@@ -3,6 +3,7 @@
 <p align="center">
   Software Engineer Intern @ Integral Ad Science<br />
   Computer Science @ Hunter College
+  Lead Developer for Patina Network's Codebloom
 </p>
 
 <p align="center">
