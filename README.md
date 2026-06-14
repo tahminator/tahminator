@@ -2,8 +2,11 @@
 
 <p align="center">
   Software Engineer Intern @ Capital One<br />
+  <sub>Jun. 2026 - Present</sub><br /><br />
   Prev. Software Engineer Intern @ Integral Ad Science<br />
-  Codebloom Lead Developer @ Patina Network<br />
+  <sub>Jun. 2025 - May. 2026</sub><br /><br />
+  Lead Engineer (Volunteer) @ Patina Network<br />
+  <sub>Jan 2025 - Present</sub><br /><br />
   Computer Science @ Hunter College<br />
 </p>
 
