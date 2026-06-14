@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Tahmid! 👋</h1>
 
 <p align="center">
-  Software Engineer Intern @ Integral Ad Science<br />
+  Software Engineer Intern @ Capital One<br />
+  Prev. Software Engineer Intern @ Integral Ad Science<br />
   Codebloom Lead Developer @ Patina Network<br />
   Computer Science @ Hunter College<br />
 </p>
