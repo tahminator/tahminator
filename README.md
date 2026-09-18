@@ -2,7 +2,7 @@
 
 <p align="center">
   Software Engineer Intern/Coop @ Integral Ad Science<br />
-  <sub>Jun. 2026 - Aug. 2026</sub><br /><br />
+  <sub>Sep 2026 - Present</sub><br /><br />
   Prev. Software Engineer Intern @ Capital One<br />
   <sub>Jun. 2026 - Aug. 2026</sub><br /><br />
   Prev. Software Engineer Intern/Coop @ Integral Ad Science<br />
