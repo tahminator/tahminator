@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Tahmid! 👋</h1>
 
 <p align="center">
+  Software Engineer Intern/Coop @ Integral Ad Science<br />
+  <sub>Jun. 2026 - Aug. 2026</sub><br /><br />
   Prev. Software Engineer Intern @ Capital One<br />
   <sub>Jun. 2026 - Aug. 2026</sub><br /><br />
-  Prev. Software Engineer Intern @ Integral Ad Science<br />
+  Prev. Software Engineer Intern/Coop @ Integral Ad Science<br />
   <sub>Jun. 2025 - May. 2026</sub><br /><br />
   Lead Engineer (Volunteer) @ Patina Network<br />
   <sub>Jan 2025 - Present</sub><br /><br />
