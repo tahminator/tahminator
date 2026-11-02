@@ -4,7 +4,7 @@
   <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 <p align="center">
-  <em>Generated via <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>. Workflow defined <a href="./.github/workflows/koi.yml">here</a>.</em>
+  <sub><em>Generated via <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>. Workflow defined <a href="./.github/workflows/koi.yml">here</a>.</em></sub>
 </p>
 
 <p align="center">
