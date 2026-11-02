@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Tahmid! 👋</h1>
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 
 <p align="center">
   Software Engineer Intern/Coop @ Integral Ad Science<br />
